@@ -3,7 +3,7 @@
 
 import sys
 from ds_wanalyser.ds_parser.ds_parser import Parser
-
+from collections import Counter
 
 source_file = r"E:\bmolle\Documents\workspace\learnpy\WoWCombatLog-split-2017-10-15T15-09-32.594Z.txt"
 
